@@ -96,7 +96,7 @@
 		"@wordpress/data-controls": "4.19.1",
 		"@wordpress/dataviews": "4.15.2",
 		"@wordpress/date": "5.19.1",
-		"@wordpress/deprecated": "4.19.1",
+		"@wordpress/deprecated": "4.21.0",
 		"@wordpress/dom": "4.19.1",
 		"@wordpress/dom-ready": "4.19.1",
 		"@wordpress/edit-post": "8.19.5",
