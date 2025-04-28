@@ -104,7 +104,7 @@
 		"@wordpress/edit-widgets": "6.19.4",
 		"@wordpress/editor": "14.19.5",
 		"@wordpress/element": "6.19.1",
-		"@wordpress/escape-html": "3.19.1",
+		"@wordpress/escape-html": "3.21.0",
 		"@wordpress/fields": "0.11.4",
 		"@wordpress/format-library": "5.19.4",
 		"@wordpress/hooks": "4.21.0",
