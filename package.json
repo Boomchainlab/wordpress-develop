@@ -114,7 +114,7 @@
 		"@wordpress/interactivity": "6.19.1",
 		"@wordpress/interactivity-router": "2.19.1",
 		"@wordpress/interface": "9.4.2",
-		"@wordpress/is-shallow-equal": "5.19.1",
+		"@wordpress/is-shallow-equal": "5.21.0",
 		"@wordpress/keyboard-shortcuts": "5.19.1",
 		"@wordpress/keycodes": "4.19.1",
 		"@wordpress/list-reusable-blocks": "5.19.2",
