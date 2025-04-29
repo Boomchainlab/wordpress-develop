@@ -103,7 +103,7 @@
 		"@wordpress/edit-site": "6.19.5",
 		"@wordpress/edit-widgets": "6.19.4",
 		"@wordpress/editor": "14.19.5",
-		"@wordpress/element": "6.19.1",
+		"@wordpress/element": "6.21.0",
 		"@wordpress/escape-html": "3.19.1",
 		"@wordpress/fields": "0.11.4",
 		"@wordpress/format-library": "5.19.4",
