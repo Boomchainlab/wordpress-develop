@@ -87,7 +87,7 @@
 		"@wordpress/block-serialization-default-parser": "5.19.1",
 		"@wordpress/blocks": "14.8.1",
 		"@wordpress/commands": "1.19.2",
-		"@wordpress/components": "29.5.2",
+		"@wordpress/components": "29.8.0",
 		"@wordpress/compose": "7.19.1",
 		"@wordpress/core-commands": "1.19.4",
 		"@wordpress/core-data": "7.19.4",
