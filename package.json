@@ -98,7 +98,7 @@
 		"@wordpress/date": "5.19.1",
 		"@wordpress/deprecated": "4.21.0",
 		"@wordpress/dom": "4.19.1",
-		"@wordpress/dom-ready": "4.19.1",
+		"@wordpress/dom-ready": "4.21.0",
 		"@wordpress/edit-post": "8.19.5",
 		"@wordpress/edit-site": "6.19.5",
 		"@wordpress/edit-widgets": "6.19.4",
